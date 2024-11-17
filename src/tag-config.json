@@ -1,53 +1,43 @@
 {
   "subject": [
     {
-      "name": "nature",
-      "title": "Nature",
-      "description": "Images of natural landscapes, flora, or fauna"
+      "name": "fighter",
+      "title": "Fighter",
+      "description": "Fighter Hunters"
     },
     {
-      "name": "tech",
-      "title": "Technology",
-      "description": "Images related to technological devices or concepts"
+      "name": "initiator",
+      "title": "Initiator",
+      "description": "Initiator Hunters"
     },
     {
-      "name": "people",
-      "title": "People",
-      "description": "Images featuring individuals or groups of people"
+      "name": "frontliner",
+      "title": "Frontliner",
+      "description": "Frontliner Hunters"
+    },
+    {
+      "name": "protector",
+      "title": "Protector",
+      "description": "Protector Hunters"
+    },
+    {
+      "name": "controller",
+      "title": "Controller",
+      "description": "Controller Hunters"
     }
   ],
   "version": [
     {
-      "name": "1_0_0",
-      "title": "Image set Version 1",
-      "description": "Images from Version 1"
-    },
-    {
-      "name": "1_1_0",
-      "title": "Image set Version 1.1",
-      "description": "Images from Version 1.1"
-    },
-    {
-      "name": "2_0_0",
-      "title": "Image set Version 2.0",
-      "description": "Images from Version 2"
+      "name": "open_beta_launch",
+      "title": "Open Beta Launch",
+      "description": "Images from Supervive Open Beta Launch (20-11-2024)"
     }
   ],
   "general": [
     {
-      "name": "hq",
-      "title": "High Quality",
-      "description": "Images with exceptional clarity and detail"
-    },
-    {
-      "name": "colorful",
-      "title": "Colorful",
-      "description": "Images with a vibrant color palette"
-    },
-    {
-      "name": "monochrome",
-      "title": "Black and White",
-      "description": "Monochrome images"
+      "name": "hunter",
+      "title": "Hunter",
+      "description": "Images of Hunters"
     }
   ]
 }

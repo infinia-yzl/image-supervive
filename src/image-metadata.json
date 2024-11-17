@@ -1,36 +1,146 @@
 [
   {
-    "filename": "hero2.webp",
+    "filename": "brl.webp",
     "tags": [
-      "people",
-      "1_0_0"
+      "fighter",
+      "open_beta_launch",
+      "hunter"
     ],
-    "label": "Handsome Hero"
+    "label": "Brall"
   },
   {
-    "filename": "mecha/mecha1.webp",
+    "filename": "bsh.webp",
     "tags": [
-      "tech",
-      "1_1_0"
+      "initiator",
+      "open_beta_launch",
+      "hunter"
     ],
-    "label": "Flying Mecha"
+    "label": "Bishop"
   },
   {
-    "filename": "hero1.webp",
+    "filename": "cls.webp",
     "tags": [
-      "people",
-      "hq"
+      "controller",
+      "open_beta_launch",
+      "hunter"
     ],
-    "label": "Super Handsome Blonde Hero"
+    "label": "Celeste"
   },
   {
-    "filename": "hero3.webp",
-    "tags": [],
-    "label": ""
+    "filename": "ena.webp",
+    "tags": [
+      "protector",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Elluna"
   },
   {
-    "filename": "mecha/mecha2.webp",
-    "tags": [],
-    "label": ""
+    "filename": "flx.webp",
+    "tags": [
+      "frontliner",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Felix"
+  },
+  {
+    "filename": "gst.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Ghost"
+  },
+  {
+    "filename": "hsn.webp",
+    "tags": [
+      "controller",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Hudson"
+  },
+  {
+    "filename": "jin.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Jin"
+  },
+  {
+    "filename": "jul.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Joule"
+  },
+  {
+    "filename": "kpn.webp",
+    "tags": [
+      "initiator",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Kingpin"
+  },
+  {
+    "filename": "myt.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Myth"
+  },
+  {
+    "filename": "oat.webp",
+    "tags": [
+      "frontliner",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Oath"
+  },
+  {
+    "filename": "shk.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Shrike"
+  },
+  {
+    "filename": "shv.webp",
+    "tags": [
+      "fighter",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Shiv"
+  },
+  {
+    "filename": "vod.webp",
+    "tags": [
+      "controller",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Void"
+  },
+  {
+    "filename": "zep.webp",
+    "tags": [
+      "protector",
+      "open_beta_launch",
+      "hunter"
+    ],
+    "label": "Zeph"
   }
 ]
