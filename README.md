@@ -1,9 +1,9 @@
-# Supervive Game Image Template
+# SUPERVIVE Game Image Template
 
 [![CI](https://github.com/infinia-yzl/image-supervive/actions/workflows/ci.yml/badge.svg)](https://github.com/infinia-yzl/image-supervive/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/image-supervive.svg)](https://www.npmjs.com/package/image-supervive)
 
-This repository contains images from the game [Supervive](https://www.playsupervive.com/) by Theorycraft Games. 
+This repository contains images from the game [SUPERVIVE](https://www.playsupervive.com/) by Theorycraft Games. 
 
 ## Disclaimer
 **ALWAYS HAVE A BACKUP OF YOUR IMAGES OUTSIDE THIS PROJECT. THE SCRIPTS IN THIS PROJECT WILL MODIFY YOUR IMAGES.**
@@ -27,7 +27,7 @@ const images = require('image-supervive');
 ```
 
 ## Source
-Images were taken from the community-run wiki [Supervive Wiki](https://supervive.wiki.gg/) and are used under the Creative Commons Attribution-ShareAlike 4.0 International License.
+Images were taken from the community-run wiki [SUPERVIVE Wiki](https://supervive.wiki.gg/) and are used under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## Contact
 If any images are used inappropriately or need to be removed, please contact us through GitHub by opening an issue or a pull request.
