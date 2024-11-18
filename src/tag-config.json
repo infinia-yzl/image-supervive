@@ -2,27 +2,27 @@
   "subject": [
     {
       "name": "fighter",
-      "title": "Fighter",
+      "title": "Fighters",
       "description": "Fighter Hunters"
     },
     {
       "name": "initiator",
-      "title": "Initiator",
+      "title": "Initiators",
       "description": "Initiator Hunters"
     },
     {
       "name": "frontliner",
-      "title": "Frontliner",
+      "title": "Frontliners",
       "description": "Frontliner Hunters"
     },
     {
       "name": "protector",
-      "title": "Protector",
+      "title": "Protectors",
       "description": "Protector Hunters"
     },
     {
       "name": "controller",
-      "title": "Controller",
+      "title": "Controllers",
       "description": "Controller Hunters"
     }
   ],
@@ -36,7 +36,7 @@
   "general": [
     {
       "name": "hunter",
-      "title": "Hunter",
+      "title": "All Hunters",
       "description": "Images of Hunters"
     }
   ]
