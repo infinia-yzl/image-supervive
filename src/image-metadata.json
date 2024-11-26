@@ -639,7 +639,7 @@
     "label": "DELICATE X-RAY GOGGLES"
   },
   {
-    "filename": "p/e_astrike.webp",
+    "filename": "c/e_astrike.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -719,7 +719,7 @@
     "label": "GUARDIAN ARCHANGEL"
   },
   {
-    "filename": "p/e_heart.webp",
+    "filename": "c/e_heart.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -736,7 +736,7 @@
     "label": "ICARUS GLIDE"
   },
   {
-    "filename": "p/e_life.webp",
+    "filename": "c/e_life.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -762,7 +762,7 @@
     "label": "REPLICATOR"
   },
   {
-    "filename": "p/e_res.webp",
+    "filename": "c/e_res.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -770,7 +770,7 @@
     "label": "RESPAWN BEACON"
   },
   {
-    "filename": "p/e_rev.webp",
+    "filename": "c/e_rev.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -814,7 +814,7 @@
     "label": "MAGNETIC VACUUM"
   },
   {
-    "filename": "p/eq_glide.webp",
+    "filename": "eq/eq_glide.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -822,7 +822,7 @@
     "label": "GLIDE BOOTS"
   },
   {
-    "filename": "p/eq_reap.webp",
+    "filename": "eq/eq_reap.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
@@ -830,7 +830,7 @@
     "label": "ENDLESS REAPER"
   },
   {
-    "filename": "p/eq_soul.webp",
+    "filename": "eq/eq_soul.webp",
     "tags": [
       "exotic",
       "open_beta_launch"
