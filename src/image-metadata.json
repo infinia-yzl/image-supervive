@@ -142,5 +142,699 @@
       "hunter"
     ],
     "label": "ZEPH"
+  },
+  {
+    "filename": "p/a1_ahaste.webp",
+    "tags": [
+      "white",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ABILITY HASTE RUNE"
+  },
+  {
+    "filename": "p/a1_mana.webp",
+    "tags": [
+      "white",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MANA RUNE"
+  },
+  {
+    "filename": "p/a1_move.webp",
+    "tags": [
+      "white",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MOVEMENT RUNE"
+  },
+  {
+    "filename": "p/a1_vamp.webp",
+    "tags": [
+      "white",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "OMNIVAMP RUNE"
+  },
+  {
+    "filename": "p/a2_axe.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "THROWING AXE"
+  },
+  {
+    "filename": "p/a2_ball.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "CAPTURE BALL"
+  },
+  {
+    "filename": "p/a2_burn.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BURNING CORE"
+  },
+  {
+    "filename": "p/a2_cloud.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MANA CLOUD"
+  },
+  {
+    "filename": "p/a2_eplat.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "EMERGENCY PLATFORM"
+  },
+  {
+    "filename": "p/a2_fish.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "FISHING POLE"
+  },
+  {
+    "filename": "p/a2_forest.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "FRIEND OF THE FOREST"
+  },
+  {
+    "filename": "p/a2_ghil.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GHILLIE SUIT"
+  },
+  {
+    "filename": "p/a2_insta.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "INSTANT VIVE"
+  },
+  {
+    "filename": "p/a2_jam.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "JAMMER"
+  },
+  {
+    "filename": "p/a2_money.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MONEY TREE SEEDS"
+  },
+  {
+    "filename": "p/a2_scuba.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "SCUBA GEAR"
+  },
+  {
+    "filename": "p/a2_thumb.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GREEN THUMB"
+  },
+  {
+    "filename": "p/a2_tree.webp",
+    "tags": [
+      "green",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TREE COSTUME"
+  },
+  {
+    "filename": "p/a3_barrier.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "DELICATE BARRIER"
+  },
+  {
+    "filename": "p/a3_battery.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "DELICATE MANA BATTERY"
+  },
+  {
+    "filename": "p/a3_blood.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BLOOD STONE"
+  },
+  {
+    "filename": "p/a3_boar.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BRUSH BOAR"
+  },
+  {
+    "filename": "p/a3_bush.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BRUSHWHACKER"
+  },
+  {
+    "filename": "p/a3_chonk.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "THE CHONKER"
+  },
+  {
+    "filename": "p/a3_cook.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "LITTLE COOK"
+  },
+  {
+    "filename": "p/a3_field.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ANTI-MOBILITY FIELD"
+  },
+  {
+    "filename": "p/a3_fist.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "IRON FIST"
+  },
+  {
+    "filename": "p/a3_laser.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "REMOTE LASER"
+  },
+  {
+    "filename": "p/a3_miss.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "HOMING MISSILE"
+  },
+  {
+    "filename": "p/a3_mortar.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MORTAR"
+  },
+  {
+    "filename": "p/a3_prison.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TREE PRISON"
+  },
+  {
+    "filename": "p/a3_rally.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "RALLY"
+  },
+  {
+    "filename": "p/a3_regen.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "REGENERATIVE ARMOR"
+  },
+  {
+    "filename": "p/a3_spy.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "RAVEN SPY"
+  },
+  {
+    "filename": "p/a3_touchm.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TOUCH OF MANA"
+  },
+  {
+    "filename": "p/a3_touchs.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TOUCH OF SPEED"
+  },
+  {
+    "filename": "p/a3_turt.webp",
+    "tags": [
+      "blue",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "RESCUE TURTLE"
+  },
+  {
+    "filename": "p/a4_berry.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BERRY EATER"
+  },
+  {
+    "filename": "p/a4_blast.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "AIRBLAST"
+  },
+  {
+    "filename": "p/a4_boost.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GLIDER JET"
+  },
+  {
+    "filename": "p/a4_bungee.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BUNGEE SHOT"
+  },
+  {
+    "filename": "p/a4_chonkc.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "CHONKER CANNON"
+  },
+  {
+    "filename": "p/a4_cloak.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "STEALTH CLOAK"
+  },
+  {
+    "filename": "p/a4_fix.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "FIXER"
+  },
+  {
+    "filename": "p/a4_ga.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GUARDIAN ANGEL"
+  },
+  {
+    "filename": "p/a4_hook.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GRAPPLING HOOK"
+  },
+  {
+    "filename": "p/a4_hover.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "HOVER WINGS"
+  },
+  {
+    "filename": "p/a4_hpack.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "HEALTH PACKS"
+  },
+  {
+    "filename": "p/a4_nuke.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TACTICAL NUKE"
+  },
+  {
+    "filename": "p/a4_rob.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ROBBER RACCOON"
+  },
+  {
+    "filename": "p/a4_spec.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ABYSS SPECIALIST"
+  },
+  {
+    "filename": "p/a4_tele.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TWO-WAY TELEPORTER"
+  },
+  {
+    "filename": "p/a4_touchl.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TOUCH OF LIFE"
+  },
+  {
+    "filename": "p/a4_wall.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "SAND WALL"
+  },
+  {
+    "filename": "p/a4_xray.webp",
+    "tags": [
+      "purple",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "DELICATE X-RAY GOGGLES"
+  },
+  {
+    "filename": "c/e_astrike.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "AIRSTRIKE"
+  },
+  {
+    "filename": "p/e_blink.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BLINKSTONE"
+  },
+  {
+    "filename": "p/e_brain.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "BUBBA'S BRAIN"
+  },
+  {
+    "filename": "p/e_disg.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "DELICATE DISGUISE"
+  },
+  {
+    "filename": "p/e_eye.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ABYSSAL EYE"
+  },
+  {
+    "filename": "p/e_fang.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ABYSSAL FANG"
+  },
+  {
+    "filename": "p/e_fate.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "FATE REWINDER"
+  },
+  {
+    "filename": "p/e_frog.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "TEAM FROG JUMP"
+  },
+  {
+    "filename": "p/e_gaa.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "GUARDIAN ARCHANGEL"
+  },
+  {
+    "filename": "c/e_heart.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "GNARLED HEART"
+  },
+  {
+    "filename": "p/e_icarus.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ICARUS GLIDE"
+  },
+  {
+    "filename": "c/e_life.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "ORB OF LIFE"
+  },
+  {
+    "filename": "p/e_mnuke.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MEGA CLUSTER NUKE"
+  },
+  {
+    "filename": "p/e_rep.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "REPLICATOR"
+  },
+  {
+    "filename": "c/e_res.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "RESPAWN BEACON"
+  },
+  {
+    "filename": "c/e_rev.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "TEAM REVIVE"
+  },
+  {
+    "filename": "p/e_scale.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ABYSSAL SCALE"
+  },
+  {
+    "filename": "p/e_shred.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "ARMOR SHREDDER"
+  },
+  {
+    "filename": "p/e_shuf.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "POWER SHUFFLER"
+  },
+  {
+    "filename": "p/e_vac.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch",
+      "power"
+    ],
+    "label": "MAGNETIC VACUUM"
+  },
+  {
+    "filename": "eq/eq_glide.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "GLIDE BOOTS"
+  },
+  {
+    "filename": "eq/eq_reap.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "ENDLESS REAPER"
+  },
+  {
+    "filename": "eq/eq_soul.webp",
+    "tags": [
+      "exotic",
+      "open_beta_launch"
+    ],
+    "label": "THE SOULSTEALER"
   }
 ]

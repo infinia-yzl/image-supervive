@@ -24,6 +24,31 @@
       "name": "controller",
       "title": "Controllers",
       "description": "Controller Hunters"
+    },
+    {
+      "name": "white",
+      "title": "White Rarity",
+      "description": "White Rarity"
+    },
+    {
+      "name": "green",
+      "title": "Green Rarity",
+      "description": "Green Rarity"
+    },
+    {
+      "name": "blue",
+      "title": "Blue Rarity",
+      "description": "Blue Rarity"
+    },
+    {
+      "name": "purple",
+      "title": "Purple Rarity",
+      "description": "Purple Rarity"
+    },
+    {
+      "name": "exotic",
+      "title": "Exotic Rarity",
+      "description": "Exotic Rarity"
     }
   ],
   "version": [
@@ -38,6 +63,11 @@
       "name": "hunter",
       "title": "All Hunters",
       "description": "Images of Hunters"
+    },
+    {
+      "name": "power",
+      "title": "All Powers",
+      "description": "Images of Powers"
     }
   ]
 }
